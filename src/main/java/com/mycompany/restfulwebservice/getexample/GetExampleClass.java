@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.restfulwebservice.getexample;
 
 import com.mycompany.restfulwebservice.pojo.Person;
@@ -18,8 +13,6 @@ import javax.ws.rs.core.MediaType;
  * @author Mevsim
  */
 
-//Web servis olduğunu belirtme
-//getExample altındaki url isteklerini burası karşılayacak
 @Path("/getExample")
 public class GetExampleClass {
     
